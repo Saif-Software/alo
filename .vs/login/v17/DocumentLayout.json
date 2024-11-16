@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Solid_PC\\source\\repos\\login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\editdata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\editdata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|c:\\users\\solid_pc\\source\\repos\\login\\login\\editdata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\editdata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\signup.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\signup.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\loginpade.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\loginpade.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\loginpade.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\loginpade.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\datagrid.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\datagrid.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\datagrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\datagrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|C:\\Users\\Solid_PC\\source\\repos\\login\\login\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99B835A-8FC9-4BD4-B202-CC74EA3B2F8F}|login\\login.csproj|solutionrelative:login\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "editData.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\editData.xaml.cs",
+              "RelativeDocumentMoniker": "login\\editData.xaml.cs",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\editData.xaml.cs",
+              "RelativeToolTip": "login\\editData.xaml.cs",
+              "ViewState": "AgIAAAkAAADA/////z8lwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:36:58.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "editData.xaml",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\editData.xaml",
+              "RelativeDocumentMoniker": "login\\editData.xaml",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\editData.xaml",
+              "RelativeToolTip": "login\\editData.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T19:17:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "datagrid.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\datagrid.xaml.cs",
+              "RelativeDocumentMoniker": "login\\datagrid.xaml.cs",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\datagrid.xaml.cs",
+              "RelativeToolTip": "login\\datagrid.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAX5mZmZntvygAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:24:52.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginpade.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\loginpade.xaml.cs",
+              "RelativeDocumentMoniker": "login\\loginpade.xaml.cs",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\loginpade.xaml.cs",
+              "RelativeToolTip": "login\\loginpade.xaml.cs",
+              "ViewState": "AgIAABYAAACAw8zMzMwUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:05:16.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signup.xaml",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\signup.xaml",
+              "RelativeDocumentMoniker": "login\\signup.xaml",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\signup.xaml",
+              "RelativeToolTip": "login\\signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T13:15:14.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\signup.xaml.cs",
+              "RelativeDocumentMoniker": "login\\signup.xaml.cs",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\signup.xaml.cs",
+              "RelativeToolTip": "login\\signup.xaml.cs",
+              "ViewState": "AgIAAC0AAADABAAAAIAUwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:45:57.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginpade.xaml",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\loginpade.xaml",
+              "RelativeDocumentMoniker": "login\\loginpade.xaml",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\loginpade.xaml",
+              "RelativeToolTip": "login\\loginpade.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T11:43:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "login\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\Model1.Context.cs",
+              "RelativeToolTip": "login\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:00:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "datagrid.xaml",
+              "DocumentMoniker": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\datagrid.xaml",
+              "RelativeDocumentMoniker": "login\\datagrid.xaml",
+              "ToolTip": "C:\\Users\\Solid_PC\\source\\repos\\login\\login\\datagrid.xaml",
+              "RelativeToolTip": "login\\datagrid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T15:24:10.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
